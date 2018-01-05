@@ -1,0 +1,3 @@
+Endpoint vs Component
+
+A Component is a factory for Endpoints. Parsing "jms:queue:order", Camel will use the "jms" scheme to lookup the JmsComponent in the Component registry, which will create a JMS queue Endpoint named "order". The Endpoint creates Producers and Consumers to handle the message. This is reflected in the Javadoc for JmsComponent: see that is has methods for creating JMS Endpoints.
