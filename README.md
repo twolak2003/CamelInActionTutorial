@@ -1,9 +1,11 @@
 Camel in Action - 1st edition
 =============================
 
-This project hosts the source code for the examples of the [Camel in Action](http://manning.com/ibsen/) 1st edition book written by [Claus Ibsen](https://twitter.com/davsclaus) and [Jonathan Anstey](https://twitter.com/jon_anstey). 
+This project hosts MODIFIED  source code for the examples of the [Camel in Action](http://manning.com/ibsen/) 1st edition book written by [Claus Ibsen](https://twitter.com/davsclaus) and [Jonathan Anstey](https://twitter.com/jon_anstey). 
 
 ![Camel in Action cover](/docs/images/cia_cover150.jpg?raw=true)
+
+I AM USING THIS REPO to store modified version of the source that I am using to learn Camel.  For untouched versions go directly ot the original location of the tutorial.  Do not rely on this repo.
 
 
 Downloading the source code
